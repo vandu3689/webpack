@@ -1,8 +1,8 @@
-# Webpack Frontend Starterkit
+# Flight Checking Application using ES6, babel webpack.
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
-A lightweight foundation for your next webpack based frontend project.
+Check the Demo over here https://vandu3689.github.io/webpack/.
 
 
 ### Installation
