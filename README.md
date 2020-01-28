@@ -2,7 +2,7 @@
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
-Check the Demo over here https://vandu3689.github.io/webpack/.
+Check the Demo over <a href="https://vandu3689.github.io/webpack/" target="_blank">here</a>.
 
 
 ### Installation
